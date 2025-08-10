@@ -22,7 +22,7 @@ A Python tool for extracting and exporting iMessage conversations from macOS/iOS
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/imessage-extractor.git
+git clone https://github.com/yourusername/Local-iMessage-Extractor.git
 cd imessage-extractor
 ```
 
